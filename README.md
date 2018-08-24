@@ -9,7 +9,7 @@ For help getting started with Flutter, view our online
 
 # Previwe
 iOS
-![Screenshot_iOS.png]
+![iOS](Screenshot_iOS.png)
 
 Android
-![Screenshot_Android.png]
+![Android](Screenshot_Android.png)
